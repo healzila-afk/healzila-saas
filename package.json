@@ -11,13 +11,5 @@
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
-  },
-  "devDependencies": {
-    "typescript": "^5",
-    "@types/react": "^18",
-    "@types/node": "^20",
-    "autoprefixer": "^10",
-    "postcss": "^8",
-    "tailwindcss": "^3"
   }
 }
